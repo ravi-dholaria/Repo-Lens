@@ -9,11 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@clerk/nextjs": "^6.9.6",
     "dev-overflow": "file:",
     "eslint-config-prettier": "^9.1.0",
     "eslint-config-standard": "^17.1.0",
     "eslint-plugin-tailwindcss": "^3.13.0",
-    "next": "14.0.4",
+    "next": "^15.1.2",
     "prettier": "^3.1.0",
     "react": "^18",
     "react-dom": "^18",
